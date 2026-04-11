@@ -44,4 +44,4 @@ Oscar successfully cloned the repo
 
 Jake successfully cloned the repo.
 
-This is my Lecture 6 demo update.
+This is my Lecture 6 demo update!
